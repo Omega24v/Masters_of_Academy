@@ -1,0 +1,10 @@
+#array-list {
+    max-width: 40%;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+#array-list li {
+    font: 24px "Arial, Helvetica", sans-serif;
+}
